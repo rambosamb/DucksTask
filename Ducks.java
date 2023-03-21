@@ -5,10 +5,8 @@ import java.util.Scanner;
 public class Ducks {
     public static void main(String[] args) {
         System.out.println(solution());
-
-
     }
-
+    
     static int solution() {
         Scanner input = new Scanner(System.in);
         System.out.println("Wpisz liczbę dostępnych kaczuszek");
